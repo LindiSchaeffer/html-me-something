@@ -1,0 +1,12 @@
+body {
+    max-width: 1000px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+img {
+    max-width: 1000px;
+    border: 2px solid black;
+}
